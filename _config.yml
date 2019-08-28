@@ -56,12 +56,12 @@ footer-links:
   #youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 X
+footer-text: Copyright © 2019-Today RyoX All Rights Reserved.
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: lofter #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
