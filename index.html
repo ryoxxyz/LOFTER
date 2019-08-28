@@ -69,6 +69,7 @@ layout: default
       </div>
 
       <div class="entry">
+        {{ post.excerpt | truncate: 200 }}
         {{ post.excerpt | safe | truncate(200,True)}}
 
       {% endif %}
