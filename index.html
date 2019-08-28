@@ -70,8 +70,8 @@ layout: default
 
       <div class="entry">
         <!--{{ post.excerpt | truncate: 200 }}-->
-        {% if post.content contains "<!-- more -->" %} 
-          {{ post.content | split:"<!-- more -->" | first % }} 
+        {% if post.excerpt contains "<!-- more -->" %} 
+          {{ post.excerpt | split:"<!-- more -->" | first % }} 
         {% else %} 
           {{ post.excerpt | truncate: 200 }} 
       </div>
