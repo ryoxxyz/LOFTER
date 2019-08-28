@@ -69,8 +69,12 @@ layout: default
       </div>
 
       <div class="entry">
-        {{ post.excerpt | safe | truncate(200,True)}}
-              <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More Temp</a>
+      {{ post.excerpt | split:'<!--break-->' | first }}
+      {% if post.excerpt contains '<!--break-->' %}
+        <!--<a href="{{ post.url }}">read more</a>-->
+      {% else %}
+        {{ post.excerpt | truncate: 200 }}
+      {% endif %}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
