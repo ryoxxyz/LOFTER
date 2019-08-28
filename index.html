@@ -69,7 +69,11 @@ layout: default
       </div>
 
       <div class="entry">
-        {{ post.excerpt | truncate: 200 }}
+        <!--{{ post.excerpt | truncate: 200 }}-->
+        {% if post.content contains "<!-- more -->" %} 
+          {{ post.content | split:"<!-- more -->" | first % }} 
+        {% else %} 
+          {{ post.excerpt | truncate: 200 }} 
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
