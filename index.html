@@ -69,10 +69,8 @@ layout: default
       </div>
 
       <div class="entry">
-        {{ post.excerpt | truncate: 200 }}
         {{ post.excerpt | safe | truncate(200,True)}}
-
-      {% endif %}
+              <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More Temp</a>
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
