@@ -19,15 +19,21 @@ avatar: https://raw.githubusercontent.com/ryoxxyz/LOFFER/master/images/logo.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/ryoxxyz/LOFFER/master/images/favicon.png
 
+defaults:
+  - scope:
+      path: ''
+    values:
+      Author: RyoX
+
 # 菜单中的按钮
 navigation:
-  - name: 首页 / Home
+  - name: 首页/Home
     url: /
-  - name: 关于 / About
+  - name: 关于/About
     url: /about
-  - name: 归档 / Archive
+  - name: 归档/Archive
     url: /archive
-  - name: 标签 / Tags
+  - name: 标签/Tags
     url: /tags
 
 # 每页的文章数
