@@ -66,14 +66,14 @@ footer-text: Copyright © 2019-Today RyoX All Rights Reserved.
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: lofter #shortname
+#disqus: lofter #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
-  clientID:
-  clientSecret:
-  repo:
-  owner:
+  clientID: 6984348149ea217c2f3a
+  clientSecret: ae2b1b22efa08c9910c21c35bd918a87108effbc
+  repo: MyPage
+  owner: ryoxxyz
 
 # 输入Google Analytics web tracking code
 google_analytics:
