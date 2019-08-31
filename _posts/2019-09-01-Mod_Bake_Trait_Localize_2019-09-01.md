@@ -23,7 +23,7 @@ _无需翻墙_
 
 ![](https://raw.githubusercontent.com/ryoxxyz/MyPage/master/images/2019-09-01/baker_trait_localize.png)
 
-- 特征描述
+- 特征描述  
   这些模拟市民从烘焙中获得相当好的心情。他们很快就学会了烘焙和烹饪的技巧，经常可以找到烘焙的灵感，以制作高质量的菜肴为荣，并且可以与信任的朋友分享秘密食谱！
   <br/>
 - 新增 Buff
