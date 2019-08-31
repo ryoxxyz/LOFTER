@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【汉化】烘焙者特征
-date: 2019-09-01 01:31:29 +0800
+date: 2019-09-01
 Author: RyoX
 tags: [The Sims 4, Mod Localize]
 comments: true
