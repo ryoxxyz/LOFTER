@@ -17,6 +17,8 @@ toc: true
 _无需翻墙_
 **[[Baker Trait by xbrettface]](http://modthesims.info/d/632031/baker-trait.html)**
 
+<!--break-->
+
 ## Mod 内容翻译
 
 ![](https://raw.githubusercontent.com/ryoxxyz/MyPage/master/images/2019-09-01/baker_trait_localize.png)
