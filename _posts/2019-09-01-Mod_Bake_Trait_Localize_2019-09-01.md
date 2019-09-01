@@ -14,8 +14,9 @@ toc: true
 
 ## Mod 指路
 
-**_无需翻墙_**  
-**[[Baker Trait by xbrettface]](http://modthesims.info/d/632031/baker-trait.html)**
+- 无需翻墙
+- **注意！这是一个带 ts4script 脚本的 mod！**
+- **[[Baker Trait by xbrettface]](http://modthesims.info/d/632031/baker-trait.html)**
 
 <!--break-->
 
