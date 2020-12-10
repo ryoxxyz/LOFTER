@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *1.68失效暂无修复*【汉化】烘焙爱好者特征
+title: -1.68失效暂无修复-【汉化】烘焙爱好者特征
 date: 2019-09-01
 Author: RyoX
 tags: [The Sims 4, Mod Localize]
